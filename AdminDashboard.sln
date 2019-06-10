@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28922.388
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdminDashboard", "AdminDashboard.csproj", "{4E1F1BBE-06AD-429E-AB0F-02D675332C91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdminDashboard", "AdminDashboard.csproj", "{4E1F1BBE-06AD-429E-AB0F-02D675332C91}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
