@@ -22,7 +22,7 @@
     "jquery-ajax-unobtrusive": "^3.2.6",
     "jquery-validation": "^1.19.0",
     "jquery-validation-unobtrusive": "^3.2.11",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "moment": "^2.24.0",
     "perfect-scrollbar": "^1.4.0",
     "popper.js": "^1.14.7",
